@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://www.laser24x7.online/sitemap.xml
-Sitemap: https://www.laser24x7.online/images_sitemap.xml
+Sitemap: https://laser24x7.online/sitemap.xml
+Sitemap: https://laser24x7.online/images_sitemap.xml
